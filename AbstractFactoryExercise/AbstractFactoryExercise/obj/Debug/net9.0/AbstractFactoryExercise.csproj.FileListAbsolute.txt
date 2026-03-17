@@ -1,0 +1,14 @@
+D:\Упражнения\Шаблони\AbstractFactoryExercise\AbstractFactoryExercise\obj\Debug\net9.0\AbstractFactoryExercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Упражнения\Шаблони\AbstractFactoryExercise\AbstractFactoryExercise\obj\Debug\net9.0\AbstractFactoryExercise.AssemblyInfoInputs.cache
+D:\Упражнения\Шаблони\AbstractFactoryExercise\AbstractFactoryExercise\obj\Debug\net9.0\AbstractFactoryExercise.AssemblyInfo.cs
+D:\Упражнения\Шаблони\AbstractFactoryExercise\AbstractFactoryExercise\obj\Debug\net9.0\AbstractFactoryExercise.csproj.CoreCompileInputs.cache
+D:\Упражнения\Шаблони\AbstractFactoryExercise\AbstractFactoryExercise\bin\Debug\net9.0\AbstractFactoryExercise.exe
+D:\Упражнения\Шаблони\AbstractFactoryExercise\AbstractFactoryExercise\bin\Debug\net9.0\AbstractFactoryExercise.deps.json
+D:\Упражнения\Шаблони\AbstractFactoryExercise\AbstractFactoryExercise\bin\Debug\net9.0\AbstractFactoryExercise.runtimeconfig.json
+D:\Упражнения\Шаблони\AbstractFactoryExercise\AbstractFactoryExercise\bin\Debug\net9.0\AbstractFactoryExercise.dll
+D:\Упражнения\Шаблони\AbstractFactoryExercise\AbstractFactoryExercise\bin\Debug\net9.0\AbstractFactoryExercise.pdb
+D:\Упражнения\Шаблони\AbstractFactoryExercise\AbstractFactoryExercise\obj\Debug\net9.0\AbstractFactoryExercise.dll
+D:\Упражнения\Шаблони\AbstractFactoryExercise\AbstractFactoryExercise\obj\Debug\net9.0\refint\AbstractFactoryExercise.dll
+D:\Упражнения\Шаблони\AbstractFactoryExercise\AbstractFactoryExercise\obj\Debug\net9.0\AbstractFactoryExercise.pdb
+D:\Упражнения\Шаблони\AbstractFactoryExercise\AbstractFactoryExercise\obj\Debug\net9.0\AbstractFactoryExercise.genruntimeconfig.cache
+D:\Упражнения\Шаблони\AbstractFactoryExercise\AbstractFactoryExercise\obj\Debug\net9.0\ref\AbstractFactoryExercise.dll
